@@ -1,0 +1,171 @@
+OPENWREK
+
+THE AI-NATIVE WEB DESIGN OS
+
+SECOND BRAIN • KNOWLEDGE GRAPH • 100+ SPECIALIZED AGENTS
+DEEP RESEARCH • DESIGN SKILLS • MCP • MEMORY • MOTION • QA
+
+FROM IDEA → RESEARCH → DESIGN → CODE → QA → LIVE WEBSITE 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OpenWrek is an AI-native Web Design OS built to turn ideas
+into premium, production-ready websites.
+
+It combines a Second Brain, Knowledge Graph, 100+ specialized
+agents, deep research, persistent memory, expert design skills,
+MCP-powered tools, browser execution, motion systems, and
+continuous visual QA into one autonomous creative workflow.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━USER
+  │
+  ▼
+USER INPUT
+  │
+  ▼
+SECOND BRAIN
+  │
+  ├── Account Memory
+  ├── Project Memory
+  ├── Knowledge Graph
+  ├── Previous Decisions
+  └── User Preferences
+  │
+  ▼
+PROJECT UNDERSTANDING
+  │
+  ├── Project Archaeology
+  ├── Existing Code
+  ├── Existing Design
+  ├── Existing Assets
+  ├── Routes
+  ├── Dependencies
+  └── Brand / Design DNA
+  │
+  ▼
+GAP ANALYSIS
+  │
+  ├── What is missing?
+  ├── What needs research?
+  ├── Which skills are required?
+  └── Which agents are required?
+  │
+  ▼
+AI ORCHESTRATOR
+  │
+  ├── Decompose request
+  ├── Build task graph
+  ├── Select agents
+  ├── Select skills
+  ├── Set dependencies
+  ├── Set budgets
+  └── Monitor execution
+  │
+  ▼
+AGENT RUNTIME
+  │
+  ├───────────────────────────────────────────┐
+  │                                           │
+  ▼                                           ▼
+RESEARCH AGENTS                         CREATIVE AGENTS
+  │                                           │
+  ├── Deep Research                        ├── Creative Director
+  ├── Web Research                         ├── UI/UX
+  ├── Competitor Research                  ├── Design System
+  ├── Design References                    ├── Motion
+  └── Trend Research                       ├── Typography
+                                            └── Art Direction
+  │                                           │
+  └──────────────────┬────────────────────────┘
+                     │
+                     ▼
+              SPECIALIST AGENTS
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+   DEVELOPMENT      ASSETS        QA
+       │             │             │
+   Frontend       Images         Visual
+   Backend        Video          Responsive
+   Animation      Icons          Accessibility
+   SEO            3D             Performance
+   Performance    Fonts          Functional
+                     │
+                     ▼
+               SKILLS SYSTEM
+                     │
+       ┌─────────────┼──────────────┐
+       ▼             ▼              ▼
+  Premium UI     Motion Design   Mac Taste
+  Design Skill   Framer Motion   UI Skill
+       │             │              │
+       └─────────────┼──────────────┘
+                     │
+                     ▼
+                 MCP LAYER
+                     │
+     ┌───────────────┼────────────────┐
+     │               │                │
+     ▼               ▼                ▼
+ PROJECT MCP     RESEARCH MCP     BROWSER MCP
+     │               │                │
+     ▼               ▼                ▼
+ Files           Search           Browser
+ Code            Sources          Screenshots
+ Assets          Research         DOM
+     │               │                │
+     ├───────────────┼────────────────┤
+     │               │                │
+     ▼               ▼                ▼
+ DESIGN MCP      ASSET MCP         QA MCP
+     │               │                │
+     ▼               ▼                ▼
+ Components      Generate         Visual QA
+ Tokens          Edit             Responsive
+ Motion          Optimize         Accessibility
+     │               │                │
+     └───────────────┼────────────────┘
+                     │
+                     ▼
+              CREATIVE ENGINE
+                     │
+          ┌──────────┼───────────┐
+          ▼          ▼           ▼
+         UI        MOTION      ASSETS
+          │          │           │
+          └──────────┼───────────┘
+                     │
+                     ▼
+               CODE GENERATION
+                     │
+                     ▼
+                REAL PROJECT
+                     │
+                     ▼
+              BROWSER EXECUTION
+                     │
+                     ▼
+                  QA LOOP
+                     │
+             ┌───────┴────────┐
+             │                │
+            FAIL             PASS
+             │                │
+             ▼                ▼
+        REPAIR AGENT       APPROVE
+             │                │
+             └───────►        ▼
+                         DEPLOY / EXPORT
+                              │
+                              ▼
+                         USER RESULT
+                              │
+                              ▼
+                       SECOND BRAIN
+                              │
+                  ┌───────────┼───────────┐
+                  ▼           ▼           ▼
+               Lessons    Decisions    Patterns
+                  │           │           │
+                  └───────────┼───────────┘
+                     
+FUTURE PROJECTSThe system doesn't just generate websites. It builds knowledge from every project and uses that knowledge to improve future work. 
